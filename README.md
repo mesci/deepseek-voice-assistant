@@ -53,6 +53,8 @@ For the best experience, **Google Chrome** is recommended. The Web Speech API an
 
 ## ⚠️ Known Issues
 
+- **Memory Issue**: It has no memory at the moment, can't remember previous messages, any solution to this issue would be appreciated.
+
 - **API Authentication Error**: Users may occasionally encounter a "I'm having trouble connecting to my knowledge base" error. This is related to API authentication issues with the DeepSeek API. The root cause is still under investigation. If you encounter this error, try refreshing the page or waiting a few minutes before trying again.
 
 - **Long Response Cutoff**: Sometimes, when the AI generates a long response, the speech synthesis may stop prematurely. This is a known limitation of the Speech Synthesis API in browsers.
